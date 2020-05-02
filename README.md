@@ -1,0 +1,2 @@
+# NetCore.Web
+netcore.webapiservice

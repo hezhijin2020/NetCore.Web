@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebSys.DAL\WebSys.DAL.csproj" />
+    <ProjectReference Include="..\WebSys.Dto\WebSys.Dto.csproj" />
+    <ProjectReference Include="..\WebSys.IBLL\WebSys.IBLL.csproj" />
+    <ProjectReference Include="..\WebSys.IDAL\WebSys.IDAL.csproj" />
+    <ProjectReference Include="..\WebSys.Models\WebSys.Models.csproj" />
+  </ItemGroup>
+
+</Project>

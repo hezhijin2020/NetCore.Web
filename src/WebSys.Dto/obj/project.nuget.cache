@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zkNBGXSTCOWKRZ6Nl5PdasCVr5uLKtWfAyDmPKyQsO9QIL3TX/uUvl1Pg6S2r5N02UQiwwyatN4eyHTBggUfCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Dto\\WebSys.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhijinhe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zhijinhe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

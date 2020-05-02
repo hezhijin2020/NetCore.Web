@@ -7,3 +7,12 @@ C:\Users\zhijinhe\Desktop\WebSys\WebSys.Models\obj\Debug\netstandard2.0\WebSys.M
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.Models\obj\Debug\netstandard2.0\WebSys.Models.AssemblyInfo.cs
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.Models\obj\Debug\netstandard2.0\WebSys.Models.dll
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.Models\obj\Debug\netstandard2.0\WebSys.Models.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Models\bin\Debug\netstandard2.0\WebSys.Models.deps.json
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Models\bin\Debug\netstandard2.0\WebSys.Models.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Models\bin\Debug\netstandard2.0\WebSys.Models.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Models\obj\Debug\netstandard2.0\WebSys.Models.csprojAssemblyReference.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Models\obj\Debug\netstandard2.0\WebSys.Models.csproj.CoreCompileInputs.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Models\obj\Debug\netstandard2.0\WebSys.Models.AssemblyInfoInputs.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Models\obj\Debug\netstandard2.0\WebSys.Models.AssemblyInfo.cs
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Models\obj\Debug\netstandard2.0\WebSys.Models.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Models\obj\Debug\netstandard2.0\WebSys.Models.pdb

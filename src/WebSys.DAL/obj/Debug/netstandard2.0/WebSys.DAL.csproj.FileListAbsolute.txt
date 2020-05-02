@@ -38,3 +38,17 @@ C:\Users\zhijinhe\Desktop\WebSys\WebSys.DAL\obj\Debug\netstandard2.0\WebSys.DAL.
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.DAL\obj\Debug\netstandard2.0\WebSys.DAL.csproj.CopyComplete
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.DAL\obj\Debug\netstandard2.0\WebSys.DAL.dll
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.DAL\obj\Debug\netstandard2.0\WebSys.DAL.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\bin\Debug\netstandard2.0\WebSys.DAL.deps.json
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\bin\Debug\netstandard2.0\WebSys.DAL.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\bin\Debug\netstandard2.0\WebSys.DAL.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\bin\Debug\netstandard2.0\WebSys.IDAL.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\bin\Debug\netstandard2.0\WebSys.Models.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\bin\Debug\netstandard2.0\WebSys.IDAL.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\bin\Debug\netstandard2.0\WebSys.Models.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\obj\Debug\netstandard2.0\WebSys.DAL.csprojAssemblyReference.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\obj\Debug\netstandard2.0\WebSys.DAL.csproj.CoreCompileInputs.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\obj\Debug\netstandard2.0\WebSys.DAL.AssemblyInfoInputs.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\obj\Debug\netstandard2.0\WebSys.DAL.AssemblyInfo.cs
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\obj\Debug\netstandard2.0\WebSys.DAL.csproj.CopyComplete
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\obj\Debug\netstandard2.0\WebSys.DAL.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.DAL\obj\Debug\netstandard2.0\WebSys.DAL.pdb

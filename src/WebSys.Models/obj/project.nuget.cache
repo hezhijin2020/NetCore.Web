@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4PdTUVKSPkJPxjQd5UTYisvsVkUqI1sWMJ6NI8WrvARUlK58/q0oEyXvHhwn4xSY9TWMgUgpjQIPzd3EH7LB7w==",
+  "dgSpecHash": "zCi1WZq8vrhMKwYTbe2evOkzudvN+mk7AFkI5xzpwqE3zkQI9agCErbk2Lf3fjQEUZzR5gT0CjwaJzbo138ypg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Models\\WebSys.Models.csproj",
+  "projectFilePath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.Models\\WebSys.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zhijinhe\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\zhijinhe\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

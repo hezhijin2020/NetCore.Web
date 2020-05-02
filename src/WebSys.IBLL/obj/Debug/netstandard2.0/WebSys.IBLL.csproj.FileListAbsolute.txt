@@ -37,3 +37,15 @@ C:\Users\zhijinhe\Desktop\WebSys\WebSys.IBLL\obj\Debug\netstandard2.0\WebSys.IBL
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.IBLL\obj\Debug\netstandard2.0\WebSys.IBLL.csproj.CopyComplete
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.IBLL\obj\Debug\netstandard2.0\WebSys.IBLL.dll
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.IBLL\obj\Debug\netstandard2.0\WebSys.IBLL.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\bin\Debug\netstandard2.0\WebSys.IBLL.deps.json
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\bin\Debug\netstandard2.0\WebSys.IBLL.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\bin\Debug\netstandard2.0\WebSys.IBLL.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\bin\Debug\netstandard2.0\WebSys.Dto.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\bin\Debug\netstandard2.0\WebSys.Dto.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\obj\Debug\netstandard2.0\WebSys.IBLL.csprojAssemblyReference.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\obj\Debug\netstandard2.0\WebSys.IBLL.csproj.CoreCompileInputs.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\obj\Debug\netstandard2.0\WebSys.IBLL.AssemblyInfoInputs.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\obj\Debug\netstandard2.0\WebSys.IBLL.AssemblyInfo.cs
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\obj\Debug\netstandard2.0\WebSys.IBLL.csproj.CopyComplete
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\obj\Debug\netstandard2.0\WebSys.IBLL.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IBLL\obj\Debug\netstandard2.0\WebSys.IBLL.pdb

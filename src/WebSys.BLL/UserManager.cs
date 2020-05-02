@@ -10,9 +10,19 @@ namespace WebSys.BLL
     {
         private IDAL.IUserService userService = new DAL.UserService();
 
-        public Task AddWeChatOpenIdByFullName(string opentId, string FullName)
+        public bool AddWeChatOpenIdByLogin(string opentId, string loginName, string loginPwd)
         {
-            throw new System.NotImplementedException();
+            var model=   userService.GetALLAsync().FirstOrDefault(a => a.LoginName == loginName && a.LoginPwd == loginPwd);
+            if (model != null)
+            {
+                model.OpenId = opentId;
+                userService.EditAsync(model);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public async Task< UserDto> GetWeChatByOpenId(string openId)

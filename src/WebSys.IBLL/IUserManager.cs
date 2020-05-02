@@ -6,7 +6,7 @@ namespace WebSys.IBLL
     {
         Task<bool> Login(string loginName, string loginPwd);
 
-        Task AddWeChatOpenIdByFullName(string opentId, string FullName);
+        bool AddWeChatOpenIdByLogin(string opentId, string loginName,string loginPwd);
 
         Task<WebSys.Dto.UserDto> GetWeChatByOpenId(string openId);
     }

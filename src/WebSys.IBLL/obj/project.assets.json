@@ -202,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.IBLL\\WebSys.IBLL.csproj",
+      "projectUniqueName": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.IBLL\\WebSys.IBLL.csproj",
       "projectName": "WebSys.IBLL",
-      "projectPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.IBLL\\WebSys.IBLL.csproj",
+      "projectPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.IBLL\\WebSys.IBLL.csproj",
       "packagesPath": "C:\\Users\\zhijinhe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.IBLL\\obj\\",
+      "outputPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.IBLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -227,8 +227,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Dto\\WebSys.Dto.csproj": {
-              "projectPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Dto\\WebSys.Dto.csproj"
+            "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.Dto\\WebSys.Dto.csproj": {
+              "projectPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.Dto\\WebSys.Dto.csproj"
             }
           }
         }

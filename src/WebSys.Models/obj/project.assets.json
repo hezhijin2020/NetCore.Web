@@ -6185,11 +6185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Models\\WebSys.Models.csproj",
+      "projectUniqueName": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.Models\\WebSys.Models.csproj",
       "projectName": "WebSys.Models",
-      "projectPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Models\\WebSys.Models.csproj",
+      "projectPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.Models\\WebSys.Models.csproj",
       "packagesPath": "C:\\Users\\zhijinhe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Models\\obj\\",
+      "outputPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

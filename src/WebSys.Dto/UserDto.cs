@@ -46,5 +46,7 @@ namespace WebSys.Dto
         /// 部门名称 不存在user表
         /// </summary>
         public string DepartmentName { get; set; }
+
+        public string Token { get; set; }
     }
 }

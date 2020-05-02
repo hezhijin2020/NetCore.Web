@@ -8539,11 +8539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.APIWork\\WebSys.APIWork.csproj",
+      "projectUniqueName": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.APIWork\\WebSys.APIWork.csproj",
       "projectName": "WebSys.APIWork",
-      "projectPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.APIWork\\WebSys.APIWork.csproj",
+      "projectPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.APIWork\\WebSys.APIWork.csproj",
       "packagesPath": "C:\\Users\\zhijinhe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.APIWork\\obj\\",
+      "outputPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.APIWork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8564,14 +8564,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.BLL\\WebSys.BLL.csproj": {
-              "projectPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.BLL\\WebSys.BLL.csproj"
+            "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.BLL\\WebSys.BLL.csproj": {
+              "projectPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.BLL\\WebSys.BLL.csproj"
             },
-            "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Dto\\WebSys.Dto.csproj": {
-              "projectPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Dto\\WebSys.Dto.csproj"
+            "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.Dto\\WebSys.Dto.csproj": {
+              "projectPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.Dto\\WebSys.Dto.csproj"
             },
-            "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.IBLL\\WebSys.IBLL.csproj": {
-              "projectPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.IBLL\\WebSys.IBLL.csproj"
+            "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.IBLL\\WebSys.IBLL.csproj": {
+              "projectPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.IBLL\\WebSys.IBLL.csproj"
             }
           }
         }

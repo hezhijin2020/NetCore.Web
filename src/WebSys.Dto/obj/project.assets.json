@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Dto\\WebSys.Dto.csproj",
+      "projectUniqueName": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.Dto\\WebSys.Dto.csproj",
       "projectName": "WebSys.Dto",
-      "projectPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Dto\\WebSys.Dto.csproj",
+      "projectPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.Dto\\WebSys.Dto.csproj",
       "packagesPath": "C:\\Users\\zhijinhe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.Dto\\obj\\",
+      "outputPath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

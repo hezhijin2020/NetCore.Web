@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+2gtiol5d5Q8Dnj+uBb6Np+OGUyqGV1Oxq4LBxmfHiBKCEBDV9P6Xj/L1Kc6qcfjf4YhJJNlaGOOwh/yavGrZw==",
+  "dgSpecHash": "JjORGrZsNR7cSsEsMS/TIIy7enH5SVXnyFJm82ZrOfRoH4CsR40qte0SrhZopCaDxnPRaBKXa5RsdlEnvuJZZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zhijinhe\\Desktop\\WebSys\\WebSys.IDAL\\WebSys.IDAL.csproj",
+  "projectFilePath": "C:\\Users\\zhijinhe\\Desktop\\hezhijin2020\\NetCore.Web\\src\\WebSys.IDAL\\WebSys.IDAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zhijinhe\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\zhijinhe\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

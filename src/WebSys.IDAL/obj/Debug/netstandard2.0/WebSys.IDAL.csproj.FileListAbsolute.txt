@@ -34,3 +34,15 @@ C:\Users\zhijinhe\Desktop\WebSys\WebSys.IDAL\obj\Debug\netstandard2.0\WebSys.IDA
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.IDAL\obj\Debug\netstandard2.0\WebSys.IDAL.csproj.CopyComplete
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.IDAL\obj\Debug\netstandard2.0\WebSys.IDAL.dll
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.IDAL\obj\Debug\netstandard2.0\WebSys.IDAL.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\bin\Debug\netstandard2.0\WebSys.IDAL.deps.json
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\bin\Debug\netstandard2.0\WebSys.IDAL.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\bin\Debug\netstandard2.0\WebSys.IDAL.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\bin\Debug\netstandard2.0\WebSys.Models.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\bin\Debug\netstandard2.0\WebSys.Models.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\obj\Debug\netstandard2.0\WebSys.IDAL.csprojAssemblyReference.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\obj\Debug\netstandard2.0\WebSys.IDAL.csproj.CoreCompileInputs.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\obj\Debug\netstandard2.0\WebSys.IDAL.AssemblyInfoInputs.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\obj\Debug\netstandard2.0\WebSys.IDAL.AssemblyInfo.cs
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\obj\Debug\netstandard2.0\WebSys.IDAL.csproj.CopyComplete
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\obj\Debug\netstandard2.0\WebSys.IDAL.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.IDAL\obj\Debug\netstandard2.0\WebSys.IDAL.pdb

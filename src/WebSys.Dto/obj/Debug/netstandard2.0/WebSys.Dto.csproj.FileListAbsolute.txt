@@ -30,3 +30,12 @@ C:\Users\zhijinhe\Desktop\WebSys\WebSys.Dto\obj\Debug\netstandard2.0\WebSys.Dto.
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.Dto\obj\Debug\netstandard2.0\WebSys.Dto.AssemblyInfo.cs
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.Dto\obj\Debug\netstandard2.0\WebSys.Dto.dll
 C:\Users\zhijinhe\Desktop\WebSys\WebSys.Dto\obj\Debug\netstandard2.0\WebSys.Dto.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Dto\bin\Debug\netstandard2.0\WebSys.Dto.deps.json
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Dto\bin\Debug\netstandard2.0\WebSys.Dto.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Dto\bin\Debug\netstandard2.0\WebSys.Dto.pdb
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Dto\obj\Debug\netstandard2.0\WebSys.Dto.csprojAssemblyReference.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Dto\obj\Debug\netstandard2.0\WebSys.Dto.csproj.CoreCompileInputs.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Dto\obj\Debug\netstandard2.0\WebSys.Dto.AssemblyInfoInputs.cache
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Dto\obj\Debug\netstandard2.0\WebSys.Dto.AssemblyInfo.cs
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Dto\obj\Debug\netstandard2.0\WebSys.Dto.dll
+C:\Users\zhijinhe\Desktop\hezhijin2020\NetCore.Web\src\WebSys.Dto\obj\Debug\netstandard2.0\WebSys.Dto.pdb
